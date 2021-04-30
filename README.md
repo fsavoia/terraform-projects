@@ -1,2 +1,2 @@
-# terraform-projects
-Terraform to build some lab environments
+# terraform
+Terraform - Zeal Vora Courses
