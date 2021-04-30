@@ -1,2 +1,2 @@
 # terraform
-Terraform - Zeal Vora Courses
+Terraform - demo environments
